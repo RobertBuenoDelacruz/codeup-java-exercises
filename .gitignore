@@ -29,3 +29,10 @@ bin/
 ### Mac OS ###
 .DS_Store
 *.iml
+
+# IntelliJ
+.idea/*
+
+# Compiled output
+
+out/*
