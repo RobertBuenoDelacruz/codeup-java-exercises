@@ -86,9 +86,9 @@ public class ControlFlowExercises {
 
             if(userGrade >= 88 && userGrade <= 100) {
                 System.out.println("A");
-            } else if (userGrade >= 80 && userGrade <= 100) {
+            } else if (userGrade >= 80 && userGrade <= 87) {
                 System.out.println("B");
-            } else if (userGrade >= 67 && userGrade <= 100) {
+            } else if (userGrade >= 67 && userGrade <= 79) {
                 System.out.println("C");
             } else {
                 System.out.println("F");
